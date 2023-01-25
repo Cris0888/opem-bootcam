@@ -1,0 +1,30 @@
+<!-- Crea un nuevo documento HTML e implementa lo siguiente:
+
+Utiliza la etiqueta de título para poner en el título "Ejercicio de Introducción a HTML en OpenBootcamp"
+
+Dentro de la etiqueta body pon un comentario de dos líneas
+
+Este es mi primer comentario de dos líneas
+
+Aprendiendo a documentar mi código con OpenBootcamp
+
+Crea una lista desordenada de tus tres vídeos de Youtube favoritos, siguiendo las siguientes pautas:
+
+Cada elemento de la lista tiene que ser un enlace
+
+El texto del enlace debe ser el título del vídeo-->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <p>este es mi primer comentario de dos lineas</p>
+    <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+    <ol>mis sets</ol>
+    <li><a href="https://www.youtube.com/watch?v=TEJMdMwMJCs">live set japan buddha</a></li>
+    <li><a href="https://www.youtube.com/watch?v=buCD-_1UPn4">boris brejcha</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ttMUVdYnUzE">dj ivory</a></li>
+</body>
+</html>
